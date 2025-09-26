@@ -20,3 +20,41 @@ Working with classes, objects, and methods
 Implementing basic financial logic in .NET
 Hands-on practice with console applications
 
+Simpal of the project Output :-
+
+=== ?? Simple Banking System ===
+
+Select an option:
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 1
+Enter amount to deposit: 230
+? Deposited ? 230.00. New Balance: ? 1,230.00
+
+Select an option:
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 2
+Enter amount to withdraw: 200
+? Withdrawn ? 200.00. Remaining Balance: ? 1,030.00
+
+Select an option:
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 3
+?? Current Balance: ? 1,030.00
+
+Select an option:
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter choice: 4
+?? Thank you for using Simple Banking System!
+
